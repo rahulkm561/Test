@@ -1,0 +1,78 @@
+.demoForm {
+	width: 500px;
+	margin: auto;
+}
+
+.ml-3 {
+	margin-left: 11px;
+}
+
+.submitBtn {
+	text-align: center;
+}
+
+.submitBtn button {
+	width: 100%;
+	margin-top: 10px;
+  }
+
+  .card {
+	width: 23%;
+	margin: 10px 12px;
+	display: inline-block;
+	border: 1px solid #eee;
+	box-shadow: 1px 2px 6px 3px #eee;
+	padding: 10px;
+  }
+
+  ul.card-list {
+	padding: 0px;
+  }
+
+  .card-list li {
+	list-style: none;
+	display: inline-block;
+	margin: 0px 6px;
+  }
+
+  .card-list li:first-child {
+	margin-left: 0;
+  }
+
+  .btn-primary {
+	background-color: #151a4f !important;
+	border-color: #151a4f  !important;
+	color: white;
+  }
+  .card-list li:last-child {
+	margin: 0px 0px;
+  }
+  .input-group {
+	width: 125px;
+  }
+  .qty {
+	display: inline-block;
+	margin: 0px 4px 11px 4px;
+  }
+
+  .btn-number {
+	height: 35px;
+	padding: 6px 7px;
+
+  }
+
+  img.card-img-top {
+	width: 100%;
+  }
+  
+
+  .order-success h6 {
+	font-size: 22px;
+	font-weight: 600;
+	color: #19b419;
+  }
+
+  .order-success p {
+	font-size: 17px;
+	margin-top: 27px;
+  }
